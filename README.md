@@ -2,7 +2,7 @@
 To run:
 
 pip install -r requirements.txt
-python train.py              # deterministic version
-python train.py --slippery   # stochastic version
-python visualize.py          # plots for deterministic
+python train.py              
+python train.py --slippery  
+python visualize.py 
 python visualize.py --slippery
